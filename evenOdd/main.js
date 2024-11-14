@@ -31,3 +31,4 @@ class NumberChecker {
   // Expected Output: ['Odd', 'Odd', 'Odd', 'Even']
   console.log(numberChecker.checkOddEven("Hello"));
   // Expected Output: Invalid input
+  
